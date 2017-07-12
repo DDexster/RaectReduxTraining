@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.app {
+  text-align: center;
+  padding: 5%;
+}
+
+.app-title {
+  font-size: 26px;
+}
